@@ -5,7 +5,7 @@ const createTable=() =>{
   
 
 
-  const s=document.getElementById("ram");
+  const s=document.getElementById("srinadh");
   s.innerHTML="";
 const a=document.getElementById("child1").value;
 const b=document.getElementById("child2").value;
